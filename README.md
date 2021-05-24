@@ -22,8 +22,7 @@
 </div>
 
 
-<br/>
-<br/>
+<div style="width:100%, height:50px;"/>
 
 ## 📫 Touch Me
 - Linkedin: 
