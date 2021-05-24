@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**nfadhil13/nfadhil13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
+### Hi  👋
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nfadhil13)
 
