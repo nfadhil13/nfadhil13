@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **nfadhil13/nfadhil13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
@@ -14,4 +13,3 @@
 - Linkedin: 
 [![Linkedin Badge](https://img.shields.io/badge/-Ilham%20Syahid%20S-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naufal-fadhil-6a15171b4/)](https://linkedin.com/in/ilhamsyahids/)
 - Instagram: [![Instagram Badge](https://img.shields.io/badge/-nfadhil13-E4405F?logo=instagram&logoColor=white&link=https://instagram.com/palpadil/)](https://instagram.com/ilhamsyahids/)
--->
