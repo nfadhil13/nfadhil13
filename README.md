@@ -8,7 +8,7 @@
 ## 📫 Touch Me
 - Linkedin: 
 [![Linkedin Badge](https://img.shields.io/badge/-M%20Naufal%20F%20-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naufal-fadhil-6a15171b4/)](https://www.linkedin.com/in/naufal-fadhil-6a15171b4/)
-- Instagram: [![Instagram Badge](https://img.shields.io/badge/-nfadhil13-E4405F?logo=instagram&logoColor=white&link=https://instagram.com/palpadil/)](https://instagram.com/ilhamsyahids/)
+- Instagram: [![Instagram Badge](https://img.shields.io/badge/-nfadhil13-E4405F?logo=instagram&logoColor=white&link=https://instagram.com/palpadil/)](https://instagram.com/palpadil/)
 
 
 
